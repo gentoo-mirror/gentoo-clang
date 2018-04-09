@@ -2,6 +2,7 @@ dev-libs/botan 1.10.17: A C++ crypto library
 dev-libs/double-conversion 2.0.1: Binary-decimal and decimal-binary conversion routines for IEEE doubles
 dev-util/google-perftools 2.6.2: Fast, multi-threaded malloc() and nifty performance analysis tools
 kde-apps/akonadi 17.12.3: Storage service for PIM data and libraries for PIM apps
+kde-apps/knotes 17.12.3: Note taking application
 sci-libs/cln 1.3.3: Class library (C++) for numbers
 sys-libs/timezone-data 2017c: Timezone data (/usr/share/zoneinfo) and utilities (tzselect/zic/zdump)
 x11-libs/pixman 0.34.0: Low-level pixel manipulation routines
