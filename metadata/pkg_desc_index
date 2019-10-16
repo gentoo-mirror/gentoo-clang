@@ -2,9 +2,6 @@ dev-libs/botan 1.10.17: A C++ crypto library
 dev-libs/double-conversion 2.0.1: Binary-decimal and decimal-binary conversion routines for IEEE doubles
 dev-qt/qtlocation 5.9.4 5.9.5: The Location module for the Qt5 framework
 dev-util/google-perftools 2.6.2: Fast, multi-threaded malloc() and nifty performance analysis tools
-kde-apps/akonadi 17.12.3: Storage service for PIM data and libraries for PIM apps
-kde-apps/knotes 17.12.3: Note taking application
-kde-plasma/kscreenlocker 5.12.5: Library and components for secure lock screen architecture
 media-gfx/exiv2 0.26_p20171104 0.26_p20180319: EXIF, IPTC and XMP metadata C++ library and command line utility
 sci-libs/cln 1.3.3: Class library (C++) for numbers
 sys-libs/timezone-data 2017c: Timezone data (/usr/share/zoneinfo) and utilities (tzselect/zic/zdump)
