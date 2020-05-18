@@ -1,4 +1,5 @@
 app-cdr/dvd+rw-tools 7.1-r3: A set of tools for DVD+RW/-RW drives
+app-text/opensp 1.5.2-r3: A free, object-oriented toolkit for SGML parsing and entity management
 dev-libs/libgcrypt 1.8.5: General purpose crypto library based on the code used in GnuPG
 dev-util/google-perftools 2.6.2: Fast, multi-threaded malloc() and nifty performance analysis tools
 net-wireless/crda 4.14: Central Regulatory Domain Agent for wireless networks
