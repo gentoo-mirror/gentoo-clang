@@ -3,6 +3,7 @@ app-text/enchant 1.6.1-r1: Spellchecker wrapping library
 app-text/opensp 1.5.2-r3: A free, object-oriented toolkit for SGML parsing and entity management
 dev-lang/spidermonkey 60.5.2_p0-r4: Stand-alone JavaScript C++ library
 dev-libs/libgcrypt 1.8.5: General purpose crypto library based on the code used in GnuPG
+dev-libs/mimetic 0.9.8: C++ MIME library designed to be easy to use and integrate, fast and efficient.
 dev-util/google-perftools 2.6.2: Fast, multi-threaded malloc() and nifty performance analysis tools
 mail-mta/nullmailer 2.2-r1: Simple relay-only local mail transport agent
 net-wireless/crda 4.14: Central Regulatory Domain Agent for wireless networks
