@@ -1,6 +1,5 @@
 app-cdr/dvd+rw-tools 7.1-r3: A set of tools for DVD+RW/-RW drives
 app-text/enchant 1.6.1-r1: Spellchecker wrapping library
-app-text/opensp 1.5.2-r3: A free, object-oriented toolkit for SGML parsing and entity management
 dev-lang/spidermonkey 60.5.2_p0-r4: Stand-alone JavaScript C++ library
 dev-libs/libgcrypt 1.8.5: General purpose crypto library based on the code used in GnuPG
 dev-libs/mimetic 0.9.8: C++ MIME library designed to be easy to use and integrate, fast and efficient.
